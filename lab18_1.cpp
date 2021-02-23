@@ -6,7 +6,7 @@ struct Rect{
 };
 
 double overlap(){
-
+	
 
 
 }
